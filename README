@@ -1,0 +1,7 @@
+
+This is a tool for monitering throughputs sorted by TCP flows.
+It works under Linux, and gcc should be installed for compilation.
+
+INSTALL:
+	make
+	sudo ./flowmon
